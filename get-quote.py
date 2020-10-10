@@ -1,9 +1,9 @@
 def main():
    print("Keep it logically awesome.")
 
-  #f = open("quotes.txt")
-  #quotes = f.readlines()
-  #f.close()
+  f = open("quotes.txt")
+  quotes = f.readlines()
+  f.close()
 
   print(python get-quote.py)
 if __name__== "__main__":
